@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4ae5f67-a013-4cbc-a589-49fa29fa9b6b" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/files/profile_empty.png" afterDir="false" />
+    <list default="true" id="e4ae5f67-a013-4cbc-a589-49fa29fa9b6b" name="Changes" comment="GUI update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/WebContainer.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/WebContainer.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/newhtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/newhtml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/files/WebContainer.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/files/WebContainer.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/files/newhtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/files/newhtml.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +25,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="240e1b48-39c7-4c30-8bbd-2236c1126fda" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -147,7 +148,7 @@
       <updated>1699464799013</updated>
       <workItem from="1710690942533" duration="7228000" />
       <workItem from="1710732741753" duration="608000" />
-      <workItem from="1710733353801" duration="2742000" />
+      <workItem from="1710733353801" duration="5503000" />
     </task>
     <task id="LOCAL-00001" summary="reduce Java version to 17">
       <option name="closed" value="true" />
@@ -165,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710733453005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GUI update">
+      <option name="closed" value="true" />
+      <created>1710737242392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710737242393</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +186,7 @@
     </ignored-roots>
     <MESSAGE value="reduce Java version to 17" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="GUI update" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI update" />
   </component>
 </project>
